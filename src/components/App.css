@@ -1,0 +1,36 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  min-height: 100vh;
+  background-color: bisque;
+}
+
+.center {
+  text-align: center;
+}
+
+.colorPurple {
+  color: purple;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.box {
+  border: 1px solid purple;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: blanchedalmond;
+}

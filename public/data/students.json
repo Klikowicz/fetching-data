@@ -1,0 +1,109 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Andrzej",
+      "surname": "Kowalski",
+      "class": "3 IN",
+      "mail": "a.kowalski@school.eu"
+    },
+    {
+      "id": 2,
+      "name": "Ewa",
+      "surname": "Gremblewska",
+      "class": "4 IN",
+      "mail": "e.gremblewska@school.eu"
+    },
+    {
+      "id": 3,
+      "name": "Marek",
+      "surname": "Fechner",
+      "class": "2 PR",
+      "mail": "m.fechner@school.eu"
+    },
+    {
+      "id": 4,
+      "name": "Ryszard",
+      "surname": "Moś",
+      "class": "3 PR",
+      "mail": "r.mos@school.eu"
+    },
+    {
+      "id": 5,
+      "name": "Zbigniew",
+      "surname": "Zarychta",
+      "class": "1 IN",
+      "mail": "z.zarychta@school.eu"
+    },
+    {
+      "id": 6,
+      "name": "Józef",
+      "surname": "Juroff",
+      "class": "4 PR",
+      "mail": "j.juroff@school.eu"
+    },
+    {
+      "id": 7,
+      "name": "Leszek",
+      "surname": "Strączyński",
+      "class": "1 IN",
+      "mail": "l.straczynski@school.eu"
+    },
+    {
+      "id": 8,
+      "name": "Anna",
+      "surname": "Kubaszewska",
+      "class": "4 PR",
+      "mail": "a.kubaszewska@school.eu"
+    },
+    {
+      "id": 9,
+      "name": "Miłosz",
+      "surname": "Kiszka",
+      "class": "2 PR",
+      "mail": "m.kiszka@school.eu"
+    },
+    {
+      "id": 10,
+      "name": "Paulina",
+      "surname": "Malec",
+      "class": "3 PR",
+      "mail": "p.malec@school.eu"
+    },
+    {
+      "id": 11,
+      "name": "Karolina",
+      "surname": "Marczewska",
+      "class": "2 PR",
+      "mail": "k.marczewska@school.eu"
+    },
+    {
+      "id": 12,
+      "name": "Krzysztof",
+      "surname": "Machura",
+      "class": "4 IN",
+      "mail": "k.machura@school.eu"
+    },
+    {
+      "id": 13,
+      "name": "Arkadiusz",
+      "surname": "Pawlik",
+      "class": "3 IN",
+      "mail": "a.pawlik@school.eu"
+    },
+    {
+      "id": 14,
+      "name": "Paweł",
+      "surname": "Urbański",
+      "class": "2 PR",
+      "mail": "p.urbanski@school.eu"
+    },
+    {
+      "id": 15,
+      "name": "Agata",
+      "surname": "Warszawska",
+      "class": "1 PR",
+      "mail": "a.warszawska@school.eu"
+    }
+  ]
+}
