@@ -8,7 +8,7 @@ Open project in Visual Studio Code
 
 in the project directory recreate folder <node_modules>
 
-## npm install
+### 'npm install'
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
