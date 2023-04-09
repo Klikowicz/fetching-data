@@ -8,7 +8,7 @@
 
 4. In the project directory recreate folder <node_modules>
 
-###  `npm install`
+    ###  `npm install`
 
 # Start app
 In the project directory, you can run:
