@@ -1,19 +1,16 @@
 # Getting Started with App
 
-Download the repository
+1. Download the repository
 
-Unzip the repository to a new folder
+2. Unzip the repository to a new folder
 
-Open project in Visual Studio Code
+3. Open project in Visual Studio Code
 
-in the project directory recreate folder <node_modules>
+4. In the project directory recreate folder <node_modules>
 
-### 'npm install'
+###  `npm install`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
+# Start app
 In the project directory, you can run:
 
 ### `npm start`
